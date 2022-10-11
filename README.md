@@ -2,26 +2,27 @@
 
 <div>
   <a href="https://github.com/LuanCordeiro94">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanCordeiro94&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCordeiro94&layout=compact&langs_count=6&theme=great-gatsby"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuanCordeiro94&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCordeiro94&layout=compact&langs_count=6&theme=great-gatsby"/>
 </div>
   
-  ## Technologies: ⬇️
+  <section>
+    ## Technologies: ⬇️
+    <div style="display: inline_block"><br>
+      <h3>Front-end:</h3>
+      <img align="center" alt="HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+      <img align="center" alt="CSS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+      <img align="center" alt="Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      <img align="center" alt="React" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      <img align="center" alt="Bootstrap" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+      <img align="center" alt="TypeScript" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+      <img align="center" alt="Sass" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+      <img align="center" alt="Jest" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+      <img align="center" alt="Redux" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+      <img align="center" alt="Git" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    </div>
+  </section>
   
-<div style="display: inline_block"><br>
-  <h3>Front-end:</h3>
-  <img align="center" alt="HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Bootstrap" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="TypeScript" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Sass" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Jest" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="Redux" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" alt="Git" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
- 
  <br>
  
   <div>
