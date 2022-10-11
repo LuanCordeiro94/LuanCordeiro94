@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
+
 <div>
   <a href="https://github.com/LuanCordeiro94">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanCordeiro94&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
