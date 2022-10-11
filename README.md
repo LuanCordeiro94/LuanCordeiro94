@@ -8,13 +8,9 @@
   
   
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=LuanCordeiro94&color=d68c1f&line=ffff&point=d68c1f&title_color=d68c1f&area_color=d68c1f&hide_border=true&area=true&bg_color=0d1117)
-
-  hr
   
   <section>
-    
-    ## Technologies: ⬇️
-    
+    Tecnologias: ⬇️
     <div>
       <h3>Front-end:</h3>
       <img align="center" alt="HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -30,7 +26,7 @@
     </div>
   </section>
   
-  hr
+#
   
   <div align="center">
     <h3>Contact-me:</h3>
@@ -38,9 +34,9 @@
     <a href="https://www.linkedin.com/in/luancordeiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7F3ACE?style=for-the-badge&logo=linkedin&logoColor=white"</a>
     <a href="https://api.whatsapp.com/send?phone=5548984511129" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-7F3ACE?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
   </div>
-  
-  hr
-  
+ 
+#
+      
   <div align="center">
     <h3>Visitors Count:</h3>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuanCordeiro94}/count.svg" /></p> 
