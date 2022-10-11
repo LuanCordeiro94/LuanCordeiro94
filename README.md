@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/LuanCordeiro94">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuanCordeiro94&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCordeiro94&layout=compact&langs_count=6&theme=great-gatsby"/>
+  <img width="49%" height="195em" src="https://github-readme-stats.vercel.app/api?username=LuanCordeiro94&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCordeiro94&layout=compact&langs_count=6&theme=great-gatsby"/>
 </div>
   
   
