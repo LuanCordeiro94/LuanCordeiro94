@@ -5,7 +5,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanCordeiro94&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCordeiro94&layout=compact&langs_count=6&theme=great-gatsby"/>
 </div>
+  
+  ## Technologies: ⬇️
+  
 <div style="display: inline_block"><br>
+  <h3>Front-end:</h3>
   <img align="center" alt="HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -21,7 +25,7 @@
  <br>
  
   <div>
-    ### Contato
+    Contato
     <a href="https://www.linkedin.com/in/luancordeiro" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://instagram.com/luancordeir0" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
   </div>
