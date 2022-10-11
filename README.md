@@ -29,3 +29,5 @@
   ![Snake animation](https://github.com/LuanCordeiro94/LuanCordeiro94/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d68c1f&height=100&section=footer"/>
