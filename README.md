@@ -20,14 +20,15 @@
  
  <br>
  
-  ### Contato
- 
-<div> 
-  <a href="https://www.linkedin.com/in/luancordeiro" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/luancordeir0" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
+  <div>
+    ### Contato
+    <a href="https://www.linkedin.com/in/luancordeiro" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://instagram.com/luancordeir0" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
+  </div>
   
-  ![Snake animation](https://github.com/LuanCordeiro94/LuanCordeiro94/blob/output/github-contribution-grid-snake.svg)
-
+  <div align="center">
+  <h3>Visitors Count:</h3>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuanCordeiro94}/count.svg" /></p> 
 </div>
-  
+   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d68c1f&height=100&section=footer"/>
