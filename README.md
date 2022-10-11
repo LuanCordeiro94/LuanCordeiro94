@@ -6,7 +6,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCordeiro94&layout=compact&langs_count=6&theme=great-gatsby"/>
 </div>
   
-![Contribution](https://activity-graph.herokuapp.com/graph?username=efss7&color=7F3ACE&line=ffff&point=7F3ACE&title_color=7F3ACE&area_color=7F3ACE&hide_border=true&area=true&bg_color=0d1117)
+  
+![Contribution](https://activity-graph.herokuapp.com/graph?username=LuanCordeiro94&color=d68c1f&line=ffff&point=d68c1f&title_color=d68c1f&area_color=d68c1f&hide_border=true&area=true&bg_color=0d1117)
 
   <section>
     ## Technologies: ⬇️
