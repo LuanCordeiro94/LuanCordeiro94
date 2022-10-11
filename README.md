@@ -1,16 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d68c1f&height=100&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d68c1f&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luan+Cordeiro;eu+tenho+28+anos;eu+sou+Desenvolvedor+front+end;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+
 <div>
   <a href="https://github.com/LuanCordeiro94">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuanCordeiro94&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCordeiro94&layout=compact&langs_count=6&theme=great-gatsby"/>
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCordeiro94&layout=compact&langs_count=6&theme=great-gatsby"/>
 </div>
   
   
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=LuanCordeiro94&color=d68c1f&line=ffff&point=d68c1f&title_color=d68c1f&area_color=d68c1f&hide_border=true&area=true&bg_color=0d1117)
   
-  <section>
-    Tecnologias: ⬇️
+  <section align="center">
+    <h2>Technologies: ⬇️</h2>
     <div>
       <h3>Front-end:</h3>
       <img align="center" alt="HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -30,9 +32,9 @@
   
   <div align="center">
     <h3>Contact-me:</h3>
-    <a href="mailto:luancordeiro1007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-7F3ACE?style=for-the-badge&logo=gmail&logoColor=white"</a>
-    <a href="https://www.linkedin.com/in/luancordeiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7F3ACE?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-    <a href="https://api.whatsapp.com/send?phone=5548984511129" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-7F3ACE?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+    <a href="mailto:luancordeiro1007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d68c1f?style=for-the-badge&logo=gmail&logoColor=white"</a>
+    <a href="https://www.linkedin.com/in/luancordeiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-d68c1f?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+    <a href="https://api.whatsapp.com/send?phone=5548984511129" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-d68c1f?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
   </div>
  
 #
