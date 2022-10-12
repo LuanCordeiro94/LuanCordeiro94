@@ -35,9 +35,9 @@
   
 <div align="center">
   <h3>Contact-me:</h3>
-  <a href="mailto:luancordeiro1007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d68c1f?style=for-the-badge&logo=gmail&logoColor=white"</a>
-  <a href="https://www.linkedin.com/in/luancordeiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-d68c1f?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-  <a href="https://api.whatsapp.com/send?phone=5548984511129" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-d68c1f?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+  <a href="mailto:luancordeiro1007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-025cd9?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/luancordeiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-025cd9?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="https://api.whatsapp.com/send?phone=5548984511129" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-025cd9?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
 </div>
  
 #
