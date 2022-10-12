@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d68c1f&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luan+Cordeiro;e+sou+Desenvolvedor+web+front+end;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 
-<div>
+<div align="center">
   <a href="https://github.com/LuanCordeiro94">
   <img width="49.3%" height="60%" src="https://github-readme-stats.vercel.app/api?username=LuanCordeiro94&show_icons=true&include_all_commits=true&count_private=true"/>
   <img width="49.3%" height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCordeiro94&layout=compact&langs_count=6"/>
