@@ -1,18 +1,18 @@
 <header>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d68c1f&height=100&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=025cd9&height=100&section=header"/>
 </header>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d68c1f&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luan+Cordeiro;e+sou+Desenvolvedor+web+front+end;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF13&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luan+Cordeiro;e+sou+Desenvolvedor+web+front+end;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/LuanCordeiro94">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LuanCordeiro94&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCordeiro94&layout=compact&langs_count=6"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LuanCordeiro94&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&icon_color=00FF13&border_color=00FF13&bg_color=00ff1109"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCordeiro94&theme=transparent&layout=compact&langs_count=6&border_color=00FF13&bg_color=00ff1109"/>
 </div>
 
 <br>
  
-![Contribution](https://activity-graph.herokuapp.com/graph?username=LuanCordeiro94&color=d68c1f&line=ffff&point=d68c1f&title_color=d68c1f&area_color=d68c1f&hide_border=true&area=true&bg_color=0d1117)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=LuanCordeiro94&color=025cd9&line=ffffff50&point=025cd9&title_color=025cd9&area_color=025cd9&hide_border=true&area=true&bg_color=00ff1109)
   
 <section align="center">
   <h2>Technologies: ⬇️</h2>
@@ -47,4 +47,4 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuanCordeiro94}/count.svg" /></p> 
 </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d68c1f&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=025cd9&height=100&section=footer"/>
