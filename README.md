@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/LuanCordeiro94">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuanCordeiro94&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCordeiro94&layout=compact&langs_count=6"/>
+  <img min-height="100em" src="https://github-readme-stats.vercel.app/api?username=LuanCordeiro94&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img min-height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCordeiro94&layout=compact&langs_count=6"/>
 </div>
 
 <br>
