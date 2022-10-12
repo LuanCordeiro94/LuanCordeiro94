@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/LuanCordeiro94">
-  <img width="49%" height="60%" src="https://github-readme-stats.vercel.app/api?username=LuanCordeiro94&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCordeiro94&layout=compact&langs_count=6"/>
+  <img width="49.7%" height="60%" src="https://github-readme-stats.vercel.app/api?username=LuanCordeiro94&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img width="49.7%" height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCordeiro94&layout=compact&langs_count=6"/>
 </div>
  
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=LuanCordeiro94&color=d68c1f&line=ffff&point=d68c1f&title_color=d68c1f&area_color=d68c1f&hide_border=true&area=true&bg_color=0d1117)
