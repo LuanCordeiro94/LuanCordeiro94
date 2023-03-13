@@ -11,8 +11,6 @@
 </div>
 
 <br>
- 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=LuanCordeiro94&color=025cd9&line=ffffff50&point=025cd9&title_color=025cd9&area_color=025cd9&hide_border=true&area=true&bg_color=00ff1109)
   
 <section align="center">
   <h2>Technologies: ⬇️</h2>
